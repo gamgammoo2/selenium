@@ -1,0 +1,4 @@
+chromedriver-*
+chrome*
+__pycache__
+**/mando.py
