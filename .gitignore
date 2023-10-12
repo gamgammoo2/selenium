@@ -2,3 +2,4 @@ chromedriver-*
 chrome*
 __pycache__
 **/mando.py
+mando.py
